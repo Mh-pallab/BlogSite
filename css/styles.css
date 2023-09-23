@@ -70,3 +70,48 @@
   font-size: 3rem;
   font-weight: bold;
 }
+
+.learnContent {
+  max-width: 50%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.learnContent h1 {
+  text-align: center;
+  font-size: 5rem;
+  font-weight: bold;
+}
+
+.space {
+  height: 10rem;
+  background-color: #cccccc6b;
+}
+
+.seaImage {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.involve {
+  text-align: center;
+  color: #3a1086;
+}
+
+.involve h1 {
+  padding: 30px 0px 20px;
+  font-size: 5rem;
+}
+
+.involve h6 {
+  padding: 10px 0;
+  font-size: 1.5rem;
+}
+
+.involve p {
+  padding-bottom: 10px;
+}
+
+.involve button {
+  margin-bottom: 50px;
+}
