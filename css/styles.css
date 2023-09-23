@@ -115,3 +115,46 @@
 .involve button {
   margin-bottom: 50px;
 }
+
+.signIn {
+  background-image: url("https://static.wixstatic.com/media/nsplsh_32327837667846706c5f38~mv2_d_4644_3084_s_4_2.jpg/v1/fill/w_1903,h_366,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/nsplsh_32327837667846706c5f38~mv2_d_4644_3084_s_4_2.jpg");
+  height: 18rem;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.signIn h1 {
+  font-size: 4rem;
+  margin: 50px 0;
+  font-weight: bold;
+}
+
+.signIn button {
+  border-radius: 0;
+  border: 2px solid;
+  font-weight: bold;
+}
+
+.test {
+  margin: 0 150px;
+  color: #2a93bd;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.test2 {
+  color: #2a93bd;
+  margin-bottom: 3rem;
+}
+
+.test2 h5 {
+  font-weight: bold;
+  margin-bottom: 2.5rem;
+  font-size: 1.3rem;
+}
+
+.test2 p {
+  margin: 1rem 0;
+  display: block;
+  font-size: 1.1rem;
+}
